@@ -1,5 +1,5 @@
 # guess the number game
-# コミットテスト兼
+
 import random
 import sys
 
