@@ -1,4 +1,4 @@
-# Guess The Number Game
+# Guess The Number CLI
 ## 概要
 コマンドライン上で簡単な数当てゲームができるスクリプトです。
 ## 背景
